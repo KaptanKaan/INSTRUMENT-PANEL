@@ -55,6 +55,7 @@ class App(customtkinter.CTk):
                                                 command=self.clear_marker_event)
         self.button_2.grid(pady=(20, 0), padx=(20, 20), row=1, column=0)
 
+        # Not done yet
         B = ttk.Button(master=self.frame_left,
                         text="BACK TO PANEL",
                         command= print("WORKING"))
