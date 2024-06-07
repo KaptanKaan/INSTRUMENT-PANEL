@@ -35,7 +35,7 @@ mytext=Label(Tk,text="INSTRUMENT PANEL",font=("Arial Black",50),fg="red",backgro
 mytext.place(x=425,y=80)
 
 
-
+# Not done yet
 heattext=Label(Tk,text="14°C",font = ('calibri', 30, 'bold'),fg="red",background="cyan")
 heattext.place(y=650,x=950)
 
